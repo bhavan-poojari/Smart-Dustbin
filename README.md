@@ -24,23 +24,6 @@ This project combines Arduino programming, sensor integration, and mechanical au
 5. **Auto-Close**: The servo motor returns to 0 degrees, closing the lid
 6. **Ready State**: The system returns to detection mode
 
-## Project Photos
-
-### Complete Setup
-![Setup Photo](images/setup_complete.jpg)
-*Complete Smart Dustbin with Arduino and components mounted*
-
-### Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
-*Wiring diagram showing connections between Arduino, ultrasonic sensor, and servo motor*
-
-### Working Demonstration
-![Working Demo](images/dustbin_working.jpg)
-*Smart Dustbin in action with lid opening automatically*
-
-### Component Assembly
-![Components](images/components_layout.jpg)
-*Individual components used in the project*
 
 ## Code
 
