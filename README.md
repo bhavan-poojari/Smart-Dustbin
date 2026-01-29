@@ -110,6 +110,4 @@ GitHub: [@bhavan-poojari](https://github.com/bhavan-poojari)
 
 This project is open-source and available for educational purposes.
 
----
-
-**Note**: Replace placeholder image paths with actual images when available.
+-
